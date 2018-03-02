@@ -408,14 +408,14 @@ FNG_Dare_to_Die_Corps_desc:0 "Revolutionary general Huang Xing said of the Dare 
 #Chinese Equipment Section
 FNG_Standardize_Equipment:0 "Standardise Equipment"
 FNG_Standardize_Equipment_desc:0 "The chaos of the past two decades and a century of pervasive Western influence has resulted in the eclectic mix of old, obsolete, and locally produced weapons fielded by many factions. The resulting logistical nightmare requires ammunition for over 100 variants of small arms alone."
-FNG_Expand_the_Shenyang_Arsenal:0 "Expand the Shenyang Arsenal"
-FNG_Expand_the_Shenyang_Arsenal_desc:0 "China's largest military-industrial enterprise through the 1920s, the Shenyang Arsenal produces a wide variety of modified Weltkrieg-era small arms and artillery."
-FNG_Develop_the_Marshal_Zhang_Rifle:0 "Develop the Marshal Zhang Rifle"
+FNG_Expand_the_Shenyang_Arsenal:0 "펑톈 병공창을 확장한다"
+FNG_Expand_the_Shenyang_Arsenal_desc:0 "1920년대를 통틀어 중국의 가장 큰 군사 산업체인 펑톈 병공창은 다양한 세계 대전 당시의 소화기와 야포를 개조하여 생산했다."
+FNG_Develop_the_Marshal_Zhang_Rifle:0 "장 원수 보총을 개발한다"
 FNG_Develop_the_Marshal_Zhang_Rifle_desc:0 "The time has come for we Chinese to develop a rifle for ourselves, not only to demonstrate our independence from foreign influence, but for practical reasons of self reliance. The new weapon will almost certainly combine features of the German Mauser and Japanese Arisaka rifles, likely closely resembling the latter."
 FNG_Study_Japanese_Arms_Manufacture:0 "Study Japanese Arms Manufacture"
 FNG_Study_Japanese_Arms_Manufacture_desc:0 "Japan has had an arms industry resembling those in the West for decades, and far outstripping even our own Shenyang arsenal. We must learn all they will let us, and more."
 #Japanese Equipment Section
-FNG_Import_Artillery_from_Kokura:0 "Import Artillery from Kokura"
+FNG_Import_Artillery_from_Kokura:0 "고쿠라에서 야포를 수입한다"
 FNG_Import_Artillery_from_Kokura_desc:0 "Japan's Kokura Arsenal has a long history of producing quality artillery, and importing these more advanced weapons ought to be much faster and cheaper than building more of our own."
 FNG_Adopt_the_Arisaka_Type_99:0 "Adopt the Arisaka Type 99"
 FNG_Adopt_the_Arisaka_Type_99_desc:0 "The Arisaka Type 99 has every indication of being an excellent infantry weapon, and adopting it would undoubtedly save us both time and money."
